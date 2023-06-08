@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://devlibrary.withgoogle.com/authors/seyoungcho2"><img alt="API" src="https://img.shields.io/badge/Google%20DevLibrary-Seyoung%20Cho-orange?style=flat&logo=android"/></a>
-  <a href="kotlinworld.com"><img alt="API" src="https://img.shields.io/badge/Blog-Dev%20World-blue?style=flat&logo=tistory"/></a>
+  <a href="https://kotlinworld.com"><img alt="API" src="https://img.shields.io/badge/Blog-Dev%20World-blue?style=flat&logo=tistory"/></a>
   <br><br>
   <a href="https://github.com/seyoungcho2"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=seyoungcho2&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 </p>
